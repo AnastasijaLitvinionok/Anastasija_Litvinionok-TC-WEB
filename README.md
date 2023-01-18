@@ -1,5 +1,5 @@
 # Anastasija_Litvinionok-TC-WEB
-A test task project made on Scratch for the Turing College Web Development course.
+    A test task project made on Scratch for the Turing College Web Development course.
 The project consists of:
 1. This README file
 2. The game file Anastasija_Litvinionok-TC-WEB.sb3
